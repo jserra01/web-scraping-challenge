@@ -15,7 +15,7 @@ Analysis consists of:
 * Scrape and analyze Mars weather data
 * Exporting data to csv file
 
-## Weather Data Analysis:
+## Weather Data Analysis Results:
 * Months on Mars: 12 months
 * Martian Days worth of Data: 1867 martian days
 * Coldest Month in Mars: On average the 3rd month is the coldest
